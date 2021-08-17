@@ -12,8 +12,8 @@
     "BIDSVersion": "1.4.1",
     "DatasetDOI": "10.18112/openneuro.ds003768.v1.0.0",
     "Funding": [
-        "National Institutes of Health Pathway to Independence Award K99/R00 (5R00NS092996-03)", 
-        "Brain Initiative Award (1RF1MH123247-01)", 
+        "National Institutes of Health Pathway to Independence Award K99/R00 (5R00NS092996-03)",
+        "Brain Initiative Award (1RF1MH123247-01)",
         "National Institutes of Health R01 Award (1R01NS113889-01A1)"
     ],
     "HowToAcknowledge": "Please cite the paper",
