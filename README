@@ -9,4 +9,4 @@ MR imaging data were collected on a 3 Tesla Prisma Siemens Fit scanner using a S
 
 EEG data were collected using a 32-channel MR-compatible EEG system from Brain Products, Germany. Electrodes were placed based on the 10-20 international system. EOG and ECG recorded eye movement and cardiac signal, respectively. EEG data were collected at a sampling rate of 5000 Hz with a band-pass filter of 0-250 Hz. R128 in the EEG signals corresponds to the BOLD fMRI volume trigger. S1 markers in the EEG during sleep sessions correspond to participants hitting buttons indicating wakefulness state. S2 and S3 markers during sleep sessions represent no button hitting and can be ignored.
 
-For more information or any questions about this dataset, please see the manuscript on bioRxiv or contact Yameng Gu (ymgu95@gmail.com)
+For more information or any questions about this dataset, please see the two papers listed in the References and Links section or contact Dr. Yameng Gu (ymgu95@gmail.com)
