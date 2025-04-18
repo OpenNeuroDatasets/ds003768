@@ -1,0 +1,7 @@
+{
+"SamplingFrequency":5000,
+"EEGReference":"FCz",
+"SoftwareFilters":"NaN",
+"PowerLineFrequency":60,
+"TaskName":"visual-motor adaption task"
+}
