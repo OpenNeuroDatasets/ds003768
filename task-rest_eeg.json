@@ -1,7 +1,14 @@
 {
-"SamplingFrequency":5000,
-"EEGReference":"FCz",
-"SoftwareFilters":"NaN",
-"PowerLineFrequency":60,
-"TaskName":"visual-motor adaption task"
+  "TaskName": "rest",
+  "SamplingFrequency": 250,
+  "PowerLineFrequency": 60,
+  "EEGReference": "FCz",
+  "EEGChannelCount": 30,
+  "EOGChannelCount": 1,
+  "ECGChannelCount": 1,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "RecordingType": "continuous",
+  "RecordingDuration": 600,
+  "EpochLength": null
 }
