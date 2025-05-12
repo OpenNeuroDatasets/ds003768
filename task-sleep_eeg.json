@@ -10,5 +10,5 @@
   "MiscChannelCount": 0,
   "RecordingType": "continuous",
   "RecordingDuration": 900,
-  "EpochLength": null
+  "SoftwareFilters": "n/a"
 }
