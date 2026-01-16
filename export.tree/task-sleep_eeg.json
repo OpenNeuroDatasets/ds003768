@@ -1,0 +1,14 @@
+{
+  "TaskName": "sleep",
+  "SamplingFrequency": 250,
+  "PowerLineFrequency": 60,
+  "EEGReference": "FCz",
+  "EEGChannelCount": 30,
+  "EOGChannelCount": 1,
+  "ECGChannelCount": 1,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "RecordingType": "continuous",
+  "RecordingDuration": 900,
+  "SoftwareFilters": "n/a"
+}
